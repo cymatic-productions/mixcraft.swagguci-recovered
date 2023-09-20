@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<audacityproject projname="Tre Kirby - Swag Gucci Swag (ft. Noel)1_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="10.9318823832" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="0" comments="" id3v2="1" />
+	<wavetrack name="Tre Kirby - Swag Gucci Swag (ft. Noel)1" channel="0" linked="1" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="4485888" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00010.au' len='262144' min='-1.000000' max='0.792174' rms='0.124070'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<simpleblockfile filename='b00012.au' len='262144' min='-1.000000' max='1.000000' rms='0.209100'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<simpleblockfile filename='b00014.au' len='262144' min='-1.000000' max='1.000000' rms='0.199822'/>
+			</waveblock>
+			<waveblock start="786432" >
+				<simpleblockfile filename='b00016.au' len='262144' min='-1.000000' max='1.000000' rms='0.175540'/>
+			</waveblock>
+			<waveblock start="1048576" >
+				<simpleblockfile filename='b00018.au' len='262144' min='-0.978159' max='1.000000' rms='0.179671'/>
+			</waveblock>
+			<waveblock start="1310720" >
+				<simpleblockfile filename='b00020.au' len='262144' min='-0.901931' max='0.901058' rms='0.189010'/>
+			</waveblock>
+			<waveblock start="1572864" >
+				<simpleblockfile filename='b00022.au' len='262144' min='-1.000000' max='0.986537' rms='0.185880'/>
+			</waveblock>
+			<waveblock start="1835008" >
+				<simpleblockfile filename='b00024.au' len='262144' min='-1.000000' max='0.834818' rms='0.175009'/>
+			</waveblock>
+			<waveblock start="2097152" >
+				<simpleblockfile filename='b00026.au' len='262144' min='-1.000000' max='1.000000' rms='0.220099'/>
+			</waveblock>
+			<waveblock start="2359296" >
+				<simpleblockfile filename='b00028.au' len='262144' min='-1.000000' max='1.000000' rms='0.202797'/>
+			</waveblock>
+			<waveblock start="2621440" >
+				<simpleblockfile filename='b00030.au' len='262144' min='-1.000000' max='1.000000' rms='0.203871'/>
+			</waveblock>
+			<waveblock start="2883584" >
+				<simpleblockfile filename='b00032.au' len='262144' min='-0.997543' max='0.830561' rms='0.190321'/>
+			</waveblock>
+			<waveblock start="3145728" >
+				<simpleblockfile filename='b00034.au' len='262144' min='-1.000000' max='0.919192' rms='0.155538'/>
+			</waveblock>
+			<waveblock start="3407872" >
+				<simpleblockfile filename='b00036.au' len='262144' min='-1.000000' max='1.000000' rms='0.202460'/>
+			</waveblock>
+			<waveblock start="3670016" >
+				<simpleblockfile filename='b00038.au' len='262144' min='-1.000000' max='0.975757' rms='0.177432'/>
+			</waveblock>
+			<waveblock start="3932160" >
+				<simpleblockfile filename='b00040.au' len='262144' min='-1.000000' max='1.000000' rms='0.157477'/>
+			</waveblock>
+			<waveblock start="4194304" >
+				<simpleblockfile filename='b00042.au' len='262144' min='-1.000000' max='1.000000' rms='0.118102'/>
+			</waveblock>
+			<waveblock start="4456448" >
+				<simpleblockfile filename='b00044.au' len='29440' min='-0.302296' max='0.281362' rms='0.032266'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Tre Kirby - Swag Gucci Swag (ft. Noel)1" channel="1" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="4485888" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00011.au' len='262144' min='-1.000000' max='0.788789' rms='0.124088'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<simpleblockfile filename='b00013.au' len='262144' min='-1.000000' max='1.000000' rms='0.209107'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<simpleblockfile filename='b00015.au' len='262144' min='-1.000000' max='1.000000' rms='0.199860'/>
+			</waveblock>
+			<waveblock start="786432" >
+				<simpleblockfile filename='b00017.au' len='262144' min='-1.000000' max='1.000000' rms='0.175469'/>
+			</waveblock>
+			<waveblock start="1048576" >
+				<simpleblockfile filename='b00019.au' len='262144' min='-0.957559' max='1.000000' rms='0.179648'/>
+			</waveblock>
+			<waveblock start="1310720" >
+				<simpleblockfile filename='b00021.au' len='262144' min='-0.903729' max='0.905249' rms='0.188953'/>
+			</waveblock>
+			<waveblock start="1572864" >
+				<simpleblockfile filename='b00023.au' len='262144' min='-1.000000' max='0.984410' rms='0.185703'/>
+			</waveblock>
+			<waveblock start="1835008" >
+				<simpleblockfile filename='b00025.au' len='262144' min='-1.000000' max='0.838784' rms='0.175049'/>
+			</waveblock>
+			<waveblock start="2097152" >
+				<simpleblockfile filename='b00027.au' len='262144' min='-1.000000' max='1.000000' rms='0.220087'/>
+			</waveblock>
+			<waveblock start="2359296" >
+				<simpleblockfile filename='b00029.au' len='262144' min='-1.000000' max='1.000000' rms='0.202577'/>
+			</waveblock>
+			<waveblock start="2621440" >
+				<simpleblockfile filename='b00031.au' len='262144' min='-1.000000' max='1.000000' rms='0.203784'/>
+			</waveblock>
+			<waveblock start="2883584" >
+				<simpleblockfile filename='b00033.au' len='262144' min='-1.000000' max='0.831920' rms='0.190277'/>
+			</waveblock>
+			<waveblock start="3145728" >
+				<simpleblockfile filename='b00035.au' len='262144' min='-0.991694' max='0.926731' rms='0.155583'/>
+			</waveblock>
+			<waveblock start="3407872" >
+				<simpleblockfile filename='b00037.au' len='262144' min='-1.000000' max='1.000000' rms='0.202320'/>
+			</waveblock>
+			<waveblock start="3670016" >
+				<simpleblockfile filename='b00039.au' len='262144' min='-1.000000' max='0.999478' rms='0.177386'/>
+			</waveblock>
+			<waveblock start="3932160" >
+				<simpleblockfile filename='b00041.au' len='262144' min='-1.000000' max='1.000000' rms='0.157341'/>
+			</waveblock>
+			<waveblock start="4194304" >
+				<simpleblockfile filename='b00043.au' len='262144' min='-1.000000' max='1.000000' rms='0.118096'/>
+			</waveblock>
+			<waveblock start="4456448" >
+				<simpleblockfile filename='b00045.au' len='29440' min='-0.301923' max='0.277960' rms='0.032275'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="merge-track 07 7-24-2011 ID71" channel="0" linked="1" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="2604987" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00126.au' len='262144' min='-0.000107' max='0.000099' rms='0.000012'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<simpleblockfile filename='b00157.au' len='262144' min='-1.000000' max='0.969237' rms='0.083679'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<simpleblockfile filename='b00188.au' len='262144' min='-0.638247' max='0.915324' rms='0.076836'/>
+			</waveblock>
+			<waveblock start="786432" >
+				<simpleblockfile filename='b00218.au' len='262144' min='-0.823241' max='0.925648' rms='0.073816'/>
+			</waveblock>
+			<waveblock start="1048576" >
+				<simpleblockfile filename='b00581.au' len='252512' min='-1.000000' max='1.000000' rms='0.146010'/>
+			</waveblock>
+			<waveblock start="1301088" >
+				<simpleblockfile filename='b00611.au' len='252513' min='-0.080732' max='0.073422' rms='0.005191'/>
+			</waveblock>
+			<waveblock start="1553601" >
+				<simpleblockfile filename='b00613.au' len='252513' min='-0.000000' max='0.000000' rms='0.000000'/>
+			</waveblock>
+			<waveblock start="1806114" >
+				<silentblockfile len='262144' />
+			</waveblock>
+			<waveblock start="2068258" >
+				<silentblockfile len='262144' />
+			</waveblock>
+			<waveblock start="2330402" >
+				<simpleblockfile filename='b00427.au' len='137292' min='0.000000' max='0.000000' rms='0.000000'/>
+			</waveblock>
+			<waveblock start="2467694" >
+				<simpleblockfile filename='b00428.au' len='137293' min='-0.081749' max='0.000000' rms='0.002390'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="merge-track 07 7-24-2011 ID71" channel="1" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="2604987" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00275.au' len='262144' min='-0.000107' max='0.000099' rms='0.000012'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<simpleblockfile filename='b00306.au' len='262144' min='-1.000000' max='0.969512' rms='0.083678'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<simpleblockfile filename='b00337.au' len='262144' min='-0.638475' max='0.914541' rms='0.076837'/>
+			</waveblock>
+			<waveblock start="786432" >
+				<simpleblockfile filename='b00367.au' len='262144' min='-0.823470' max='0.925483' rms='0.073816'/>
+			</waveblock>
+			<waveblock start="1048576" >
+				<simpleblockfile filename='b00627.au' len='252512' min='-1.000000' max='1.000000' rms='0.146009'/>
+			</waveblock>
+			<waveblock start="1301088" >
+				<simpleblockfile filename='b00657.au' len='252513' min='-0.080496' max='0.073650' rms='0.005191'/>
+			</waveblock>
+			<waveblock start="1553601" >
+				<simpleblockfile filename='b00659.au' len='252513' min='-0.000000' max='0.000000' rms='0.000000'/>
+			</waveblock>
+			<waveblock start="1806114" >
+				<silentblockfile len='262144' />
+			</waveblock>
+			<waveblock start="2068258" >
+				<silentblockfile len='262144' />
+			</waveblock>
+			<waveblock start="2330402" >
+				<simpleblockfile filename='b00432.au' len='137292' min='0.000000' max='0.000000' rms='0.000000'/>
+			</waveblock>
+			<waveblock start="2467694" >
+				<simpleblockfile filename='b00433.au' len='137293' min='-0.082684' max='0.000000' rms='0.002392'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>
